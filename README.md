@@ -1,1 +1,2 @@
 # SGBD-Project
+Libraries administration
